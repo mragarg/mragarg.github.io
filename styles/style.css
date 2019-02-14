@@ -1,0 +1,50 @@
+html {
+    font-family: 'Arima Madurai', cursive;
+    background-color: black;    /* Black Background */
+
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #F8F8ff;
+    padding: 0 20px 20px 20px;
+    border: 1px solid black;
+}
+
+h1 {
+    margin: 0; /* Want to set margin to 0 to prevent uneven (ugly) gaps */
+    padding: 20px 0;
+    text-shadow: 5px 5px 10px grey; /* This gives us the shadow effect */
+    text-align: center;
+    font-size: 60px;
+}
+
+h3 {
+    margin: 0; /* Want to set margin to 0 to prevent uneven (ugly) gaps */
+    padding: 20px 0;
+    text-shadow: 2px 2px 4px grey; /* This gives us the shadow effect */
+    text-align: center;
+    font-size: 30px;
+}
+
+/* img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+} */
+
+.center { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p, li {
+    font-size: 16px;
+}
+
+#LinkedIn, #Instagram, #HackerRank {
+    color: blue;
+}
