@@ -1,7 +1,7 @@
 This repository contains all of the files involved in making a webpage from scratch. 
 
 
-Images 
+Images<br/>
     - contains images involved in the page 
 Scripts 
     - contains the JavaScript File for the "Change User" Button as well as the 
