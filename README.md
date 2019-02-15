@@ -2,11 +2,11 @@ This repository contains all of the files involved in making a webpage from scra
 
 
 Images<br/>
-    - contains images involved in the page 
-Scripts 
+    - contains images involved in the page<br/>
+Scripts<br/>
     - contains the JavaScript File for the "Change User" Button as well as the 
-    picture change on click function 
-Styles 
-    - contains CSS for style elements of the page 
-index.html 
-    - HTML file of the contents 
+    picture change on click function<br/>
+Styles<br/>
+    - contains CSS for style elements of the page<br/>
+index.html<br/>
+    - HTML file of the contents<br/>
